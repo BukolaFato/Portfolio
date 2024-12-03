@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Fatoba Adebukola 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi there! I'm Fatoba Adebukola 🤓, a data analyst specialing in results-driven data analyst leveraging statistical expertise, data visualization tools, and business acumen to drive informed decision-making, optimize processes, and uncover actionable insights.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
